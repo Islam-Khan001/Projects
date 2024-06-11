@@ -1,4 +1,7 @@
-alert("This website is not responsive to mobile. you better be opening it in your pc!");
+if (window.innerWidth <= 700) {
+    alert("This website is not responsive to mobile. you better be opening it in your pc!");
+}
+
 
 
 let minSigs = document.getElementsByClassName('sig-min-struc')
