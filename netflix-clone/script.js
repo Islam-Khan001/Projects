@@ -1,5 +1,5 @@
-if (window.innerWidth <= 700) {
-    alert("This website is not responsive to mobile. you better be opening it in your pc!");
+if (window.innerWidth <= 900) {
+    alert("This website is not responsive to mobile. It is recommended to open it in PC!");
 }
 
 let lang = document.getElementById("lang");
