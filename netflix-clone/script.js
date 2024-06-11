@@ -1,3 +1,6 @@
+alert("This website is not responsive to mobile. you better be opening it in your pc!");
+
+
 let lang = document.getElementById("lang");
 let slang = document.getElementById("slang");
 let elbl = document.getElementById("elbl");

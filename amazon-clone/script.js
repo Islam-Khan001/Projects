@@ -1,3 +1,6 @@
+alert("This website is not responsive to mobile. you better be opening it in your pc!");
+
+
 let ham = document.getElementById("ham");
 let menumain = document.getElementById("menumain");
 let cancel = document.getElementById("cancel");

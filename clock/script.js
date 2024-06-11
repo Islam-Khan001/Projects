@@ -1,3 +1,6 @@
+alert("This website is not responsive to mobile. you better be opening it in your pc!");
+
+
 let minSigs = document.getElementsByClassName('sig-min-struc')
 let pSigs = document.getElementsByClassName('sig-struc-p');
 let stopHand = document.getElementsByClassName('stop-hands')[0];
